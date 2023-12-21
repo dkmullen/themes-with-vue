@@ -1,0 +1,7 @@
+@import './base.css';
+.v-btn {
+  margin: 2px;
+}
+.v-btn__content {
+  text-transform: none;
+}
